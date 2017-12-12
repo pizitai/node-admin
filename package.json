@@ -1,0 +1,25 @@
+{
+  "name": "pizitai",
+  "version": "1.0.0",
+  "description": "base on node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Da \u001b[2~s\u001b[2~ystem base on node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizitai/node-admin.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "body-parser",
+    "mongoose"
+  ],
+  "author": "pizitai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pizitai/node-admin/issues"
+  },
+  "homepage": "https://github.com/pizitai/node-admin#readme"
+}
