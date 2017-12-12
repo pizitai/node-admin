@@ -10,6 +10,8 @@ app.use('/public', express.static(__dirname + '/public'))
 app.use('/static', express.static(__dirname + '/static'))
 
 
+app.use('/admin',require('./routers/admin'));
+
 app.get('/', function (req, res, next) {
     res.send('<h1>欢迎光临我的博客</h1>')
 });
